@@ -1,2 +1,2 @@
 # Get-MCP-Player-BPS
-code to get players bps for mc
+gets distance from last tick pos and current tick pos
